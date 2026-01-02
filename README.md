@@ -78,7 +78,7 @@ A complete desktop environment built with **Next.js** and **React**, featuring w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/0wardriver0/illusion-os.git
+   git clone https://github.com/hillbillyh4cker/illusion-os.git
    cd illusion-os
    ```
 
@@ -176,4 +176,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by 0wardriver0 - **Control is an Illusion** 🎭
+Made with ❤️ by hillbillyh4cker - **Control is an Illusion** 🎭
