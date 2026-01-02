@@ -2,7 +2,7 @@
 
 A complete desktop environment built with **Next.js** and **React**, featuring window management, multiple applications, and a modern desktop interface that runs entirely in your web browser.
 
-![IllusionOS Screenshot](https://github.com/0wardriver0/IllusionOS/blob/main/elliot.png)
+![IllusionOS Screenshot](https://github.com/hillbillyh4cker/illusionOS/blob/main/elliot.png)
 
 ## ✨ Features
 
